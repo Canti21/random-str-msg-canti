@@ -1,0 +1,25 @@
+{
+  "name": "random-str-msg-canti",
+  "version": "1.0.0",
+  "description": "Random String Messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Canti21/random-str-msg-canti.git"
+  },
+  "keywords": [],
+  "author": "Canti <marsky2431@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Canti21/random-str-msg-canti/issues"
+  },
+  "homepage": "https://github.com/Canti21/random-str-msg-canti#readme",
+  "bin": 
+  {
+    "random-str-msg-canti": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
