@@ -1,6 +1,6 @@
 {
   "name": "random-str-msg-canti",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Random String Messages",
   "main": "index.js",
   "scripts": {
@@ -17,8 +17,7 @@
     "url": "https://github.com/Canti21/random-str-msg-canti/issues"
   },
   "homepage": "https://github.com/Canti21/random-str-msg-canti#readme",
-  "bin": 
-  {
+  "bin": {
     "random-str-msg-canti": "./bin/global.js"
   },
   "preferGlobal": true
